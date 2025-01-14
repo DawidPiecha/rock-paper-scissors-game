@@ -1,0 +1,8 @@
+// basic styles
+@import "./vars";
+@import "./mixins";
+@import "./commons";
+
+//components' styles
+@import "./components/header";
+@import "./components/footer";
